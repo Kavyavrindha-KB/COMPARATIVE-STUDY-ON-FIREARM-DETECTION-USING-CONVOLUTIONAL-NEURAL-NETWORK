@@ -1,5 +1,8 @@
 # COMPARATIVE-STUDY-ON-FIREARM-DETECTION-USING-CONVOLUTIONAL-NEURAL-NETWORK
 
+
+Dataset:https://drive.google.com/drive/folders/1DgKzqEjS26qq1YBlWDyzpKAH2Ca7avoh?usp=share_link
+
 Abstract
 
 This project is to train a model to detect different firearms using convolutional neural network (CNN). The model will be trained in different architectures of CNN. This will give us information on which model shows better performance in terms of accuracy and detection speed. 
